@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0BCD8572-9EBA-4350-BD20-CADAF3E5C1F4}</ProjectGuid>
+    <ProjectGuid>{DD418B3C-E3EB-498B-85BD-F8404C626830}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>InsurancePremium</RootNamespace>
-    <AssemblyName>InsurancePremium</AssemblyName>
+    <RootNamespace>PremiumsTests</RootNamespace>
+    <AssemblyName>PremiumsTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -44,15 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculator.cs" />
-    <Compile Include="CalculatorTest.cs" />
+    <Compile Include="CalculatePremiumsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+    <ProjectReference Include="..\Premiums\Premiums.csproj">
+      <Project>{d228f6e2-b530-40c9-b2d6-a8ee8d060743}</Project>
+      <Name>Premiums</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

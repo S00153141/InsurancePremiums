@@ -1,19 +1,15 @@
-﻿using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Premiums;
+using NUnit.Framework;
 
-namespace InsurancePremium
+namespace PremiumsTests
 {
     [TestFixture]
-    class CalculatorTest
+    public class CalculatePremiumsTest
     {
         [Test]
         public void CalculateMale15()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Male", 15);
 
@@ -23,7 +19,7 @@ namespace InsurancePremium
         [Test]
         public void CalculateMale31()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Male", 31);
 
@@ -33,7 +29,7 @@ namespace InsurancePremium
         [Test]
         public void CalculateMale45()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Male", 45);
 
@@ -43,7 +39,7 @@ namespace InsurancePremium
         [Test]
         public void CalculateMale55()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Male", 55);
 
@@ -53,7 +49,7 @@ namespace InsurancePremium
         [Test]
         public void CalculateFemale15()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Female", 15);
 
@@ -63,7 +59,7 @@ namespace InsurancePremium
         [Test]
         public void CalculateFemale25()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Female", 25);
 
@@ -73,7 +69,7 @@ namespace InsurancePremium
         [Test]
         public void CalculateFemale40()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Female", 40);
 
@@ -83,7 +79,7 @@ namespace InsurancePremium
         [Test]
         public void CalculateFemale55()
         {
-            Calculator calc = new Calculator();
+            CalculatePremiums calc = new CalculatePremiums();
 
             float prem = calc.CalculatePremium("Female", 55);
 
