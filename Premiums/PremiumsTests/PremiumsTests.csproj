@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="CalculatePremiumsTest.cs" />
     <Compile Include="FitnessePremiumsTest.cs" />
+    <Compile Include="PremiumsFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
