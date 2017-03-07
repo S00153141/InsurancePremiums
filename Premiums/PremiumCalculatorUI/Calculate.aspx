@@ -22,7 +22,7 @@
             </div>
             
             <div>
-                <asp:Button Text="Calculate" runat="server" OnClick="CalculatePremium" />
+                <asp:Button Text="Calculate" runat="server" ID="btnCalculate" OnClick="CalculatePremium" />
             </div>
             
             <div>
