@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Premiums", "Premiums\Premiu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumsTests", "PremiumsTests\PremiumsTests.csproj", "{DD418B3C-E3EB-498B-85BD-F8404C626830}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumCalculatorUI", "PremiumCalculatorUI\PremiumCalculatorUI.csproj", "{B82DFEBC-90A9-4CDD-8E2B-BCE1A746543C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DD418B3C-E3EB-498B-85BD-F8404C626830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD418B3C-E3EB-498B-85BD-F8404C626830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD418B3C-E3EB-498B-85BD-F8404C626830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82DFEBC-90A9-4CDD-8E2B-BCE1A746543C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82DFEBC-90A9-4CDD-8E2B-BCE1A746543C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82DFEBC-90A9-4CDD-8E2B-BCE1A746543C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82DFEBC-90A9-4CDD-8E2B-BCE1A746543C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
