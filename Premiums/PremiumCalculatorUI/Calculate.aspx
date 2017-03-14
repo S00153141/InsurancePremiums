@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Calculate.aspx.cs" Inherits="PremiumCalculatorUI.Calculate" %>
+﻿<%--<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Calculate.aspx.cs" Inherits="PremiumCalculatorUI.Calculate" %>--%>
 
 <!DOCTYPE html>
 
