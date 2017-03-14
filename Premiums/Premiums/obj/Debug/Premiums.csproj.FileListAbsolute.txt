@@ -1,0 +1,11 @@
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\Premiums.dll
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\Premiums.pdb
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\fit.dll
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\fitSharp.dll
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\nunit.framework.dll
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\nunit.framework.xml
+C:\InsurancePremiums\Premiums\Premiums\obj\Debug\Premiums.csprojResolveAssemblyReference.cache
+C:\InsurancePremiums\Premiums\Premiums\obj\Debug\Premiums.dll
+C:\InsurancePremiums\Premiums\Premiums\obj\Debug\Premiums.pdb
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\WebDriver.dll
+C:\InsurancePremiums\Premiums\Premiums\bin\Debug\WebDriver.xml

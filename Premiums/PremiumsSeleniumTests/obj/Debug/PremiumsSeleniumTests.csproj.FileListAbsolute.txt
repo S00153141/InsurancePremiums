@@ -1,0 +1,10 @@
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\obj\Debug\PremiumsSeleniumTests.csprojResolveAssemblyReference.cache
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\bin\Debug\PremiumsSeleniumTests.dll
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\bin\Debug\PremiumsSeleniumTests.pdb
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\bin\Debug\nunit.framework.dll
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\bin\Debug\WebDriver.dll
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\bin\Debug\nunit.framework.xml
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\bin\Debug\WebDriver.xml
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\obj\Debug\PremiumsSeleniumTests.dll
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\obj\Debug\PremiumsSeleniumTests.pdb
+C:\InsurancePremiums\Premiums\PremiumsSeleniumTests\bin\Debug\geckodriver.exe
